@@ -1,0 +1,42 @@
+
+h2, .ombc-section .ombc-title {
+    margin: 20px 0px 16px 0px !important;
+}
+	
+/* tgh: remove
+.lp__body_content {
+	font-size: 1.5rem !important;
+	line-height: 3rem !important;
+}
+
+.full-row-white-components {
+	padding: 2px 0px 64px 0px !important;
+}
+*/
+
+@media (min-width: 1201px) {
+    .lp__card_wrapper {
+        /*height: 1052px !important;*/
+        overflow: auto;
+    }
+}
+
+@media (min-width: 991px) {
+    .lp__card_content {
+        overflow: auto !important;
+    }
+}
+	
+	
+@media (max-width: 1200px) and (min-width: 992px) {
+    .lp__card_wrapper {
+        height: 380px !important;
+        overflow: auto !important;
+    }
+}
+
+/* tgh: temporary */
+#jhu-map {
+	height: 400px;
+	width: 100%;
+}
