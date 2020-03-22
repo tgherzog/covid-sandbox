@@ -10,7 +10,7 @@ banner: ""
 <div class="col-sm-12">
 <center><h2>{{ page.title }}</h2></center>
         
-<div markdown=1>
+<div>
 {% include intro.md %}
 {% include indicators.html %}
 {% include body.md %}
