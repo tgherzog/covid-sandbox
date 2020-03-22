@@ -1,5 +1,6 @@
 ---
 title: COVID-19 Data Page
+layout: default
 banner: ""
 ---
 
