@@ -1,5 +1,8 @@
 
 siteEnvironment: qa
+kramdown:
+  parse_block_html: true
+
 exclude:
   - python
   - raw_material.md
