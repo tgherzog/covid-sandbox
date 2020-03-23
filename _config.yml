@@ -1,13 +1,12 @@
 
 siteEnvironment: qa
-kramdown:
-  parse_block_html: true
 
 exclude:
   - python
   - raw_material.md
   - README.md
 
+# Note that defaults aren't recognized for github pages so you'll have to defined them all as front matter
 defaults:
   -
     scope:
