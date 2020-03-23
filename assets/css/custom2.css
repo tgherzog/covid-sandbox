@@ -14,6 +14,12 @@ h2, .ombc-section .ombc-title {
 }
 */
 
+div.feature-box {
+  background: #eee;
+  padding-bottom: 16px;
+  margin-bottom: 48px;
+}
+
 @media (min-width: 1201px) {
     .lp__card_wrapper {
         /*height: 1052px !important;*/
