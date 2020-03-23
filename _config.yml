@@ -6,6 +6,8 @@ exclude:
   - raw_material.md
   - README.md
 
+assetDir: assets
+
 # Note that defaults aren't recognized for github pages so you'll have to defined them all as front matter
 defaults:
   -
